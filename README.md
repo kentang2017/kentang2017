@@ -1,5 +1,3 @@
-### Hi there 👋
-
 暫時(在)開發的起盤程序︰
 1. 堅太乙 Taiyi https://kintaiyi.streamlit.app/
 2. 堅奇門 Qimen https://kinqimen.streamlit.app/

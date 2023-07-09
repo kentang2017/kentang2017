@@ -5,7 +5,7 @@
 4. 堅六爻 Liuyao https://iching.streamlit.app/
 5. 堅皇極 Wangji https://wangji.streamlit.app/ (開發中)
 
-如對本系統有任何建議 可加本人微信gnatnek 聯繫通訊
+如對上述系統有任何建議或商務合作，可加本人微信gnatnek聯繫通訊
 <!--
 **kentang2017/kentang2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

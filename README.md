@@ -1,3 +1,5 @@
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kentang2017&title_color=9925be&text_color=2596be&bg_color=041014)
+
 暫時(在)開發的起盤程序︰
 1. 堅太乙 Taiyi https://kintaiyi.streamlit.app/
 2. 堅奇門 Qimen https://kinqimen.streamlit.app/

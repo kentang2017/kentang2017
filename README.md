@@ -6,6 +6,7 @@
 3. 堅六壬 Liuren https://kinliuren.streamlit.app/
 4. 堅六爻 Liuyao https://iching.streamlit.app/
 5. 堅皇極 Wangji https://wangji.streamlit.app/ (開發中)
+6. 堅太玄 Taixuan https://kintaixuan.streamlit.app/
 
 如對上述系統有任何建議或商務合作，可加本人微信gnatnek聯繫通訊
 <!--

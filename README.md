@@ -1,6 +1,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kentang2017&title_color=9925be&text_color=2596be&bg_color=041014)
 
-暫時(在)開發的起盤程序︰
+Currently below are my current divination tools written in Python:
+
 1. 堅太乙 Taiyi https://kintaiyi.streamlit.app/
 2. 堅奇門 Qimen https://kinqimen.streamlit.app/
 3. 堅六壬 Liuren https://kinliuren.streamlit.app/
@@ -8,7 +9,8 @@
 5. 堅皇極 Wangji https://wangji.streamlit.app/ (開發中)
 6. 堅太玄 Taixuan https://kintaixuan.streamlit.app/
 
-如對上述系統有任何建議或商務合作，可加本人微信gnatnek聯繫通訊
+if you do have any questions, please free free to contact me.(wechat id:gnatnek)
+
 <!--
 **kentang2017/kentang2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,6 +1,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kentang2017&title_color=9925be&text_color=2596be&bg_color=041014)
 
-Currently below are my current divination tools written in Python:
+Below are my divination tools written in Python:
 
 1. 堅太乙 Taiyi https://kintaiyi.streamlit.app/
 2. 堅奇門 Qimen https://kinqimen.streamlit.app/

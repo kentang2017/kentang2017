@@ -9,7 +9,7 @@ Below are my divination tools written in Python:
 5. 堅皇極 Wangji https://wangji.streamlit.app/ (開發中)
 6. 堅太玄 Taixuan https://kintaixuan.streamlit.app/
 
-if you have any questions, please feel free to contact me.(wechat id:gnatnek)
+if you have any questions, please feel free to contact me.(wechat id:gnatnek or Telegram id: haizhonggum )
 
 <!--
 **kentang2017/kentang2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

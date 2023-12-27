@@ -2,7 +2,7 @@
 
 Below are my divination tools written in Python:
 
-1. 堅太乙 Taiyi https://kintaiyi.streamlit.app/
+1. 堅太乙 Taiyi https://kintaiyi.streamlit.app/ (不斷更新中)
 2. 堅奇門 Qimen https://kinqimen.streamlit.app/
 3. 堅六壬 Liuren https://kinliuren.streamlit.app/
 4. 堅六爻 Liuyao https://iching.streamlit.app/

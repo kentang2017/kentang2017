@@ -2,14 +2,14 @@
 
 Below are my divination tools written in Python:
 
-1. 堅太乙 Taiyi https://kintaiyi.streamlit.app/ (不斷更新中)
+1. 堅太乙 Taiyi https://kintaiyi.streamlit.app/ 
 2. 堅奇門 Qimen https://kinqimen.streamlit.app/
 3. 堅六壬 Liuren https://kinliuren.streamlit.app/
 4. 堅六爻 Liuyao https://iching.streamlit.app/
-5. 堅皇極 Wangji https://wangji.streamlit.app/ (開發中)
+5. 堅皇極 Wangji https://wangji.streamlit.app/ 
 6. 堅太玄 Taixuan https://kintaixuan.streamlit.app/
 
-if you have any questions, please feel free to contact me.(wechat id:gnatnek or Telegram id: haizhonggum )
+if you have any questions, please feel free to contact me.(wechat id:gnatnek or Telegram id: glunyum )
 
 <!--
 **kentang2017/kentang2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -8,6 +8,7 @@ Below are my divination tools written in Python:
 [![image](https://github.com/kentang2017/taixuanshifa/blob/master/pic/taixuan.png)](https://kintaixuan.streamlit.app/)
 [![image](https://github.com/kentang2017/kinwangji/blob/main/pic/kwj.png)](https://kinwangji.streamlit.app/)
 [![image](https://raw.githubusercontent.com/kentang2017/jingjue/master/pic/jingjue.png)](https://jingjue.streamlit.app/)
+[![image](https://github.com/kentang2017/liangtouqian/blob/main/pic/Untitled-44.png)](https://liangtouqian.streamlit.app/)
 
 
 if you have any questions, please feel free to contact me.(wechat id:gnatnek or Telegram id: glunyum )

@@ -1,3 +1,8 @@
+TO DO LIST:
+1. [ ] 更新奇門遁甲盤
+2. [ ] 加入周易策軌
+3. [ ] 優化堅太乙
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kentang2017&title_color=9925be&text_color=2596be&bg_color=041014)
 
 Below are my divination tools written in Python:

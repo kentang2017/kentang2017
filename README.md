@@ -1,6 +1,7 @@
 TO DO LIST:
 1. [ ] 祿命演禽
 2. [ ] 優化堅太乙
+3. [ ] 術數LLM
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kentang2017&title_color=9925be&text_color=2596be&bg_color=041014)
 

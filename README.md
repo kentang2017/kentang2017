@@ -5,7 +5,7 @@ Below are my divination tools written in Python:
 [![image](https://github.com/kentang2017/kintaiyi/blob/master/pic/Untitled-1.png)](https://kintaiyi.streamlit.app/)
 [![image](https://github.com/kentang2017/kinliuren/blob/master/pic/Untitled-33.png)](https://kinliuren.streamlit.app/)
 [![image](https://github.com/kentang2017/kinqimen/blob/master/pic/Untitled-22.png)](https://kinqimen.streamlit.app/)
-[![image](https://github.com/kentang2017/kinwuzhao/blob/master/pic/wuzhao.png)](https://kinwuzhao.streamlit.app/)
+[![image](https://github.com/kentang2017/kinwuzhao/blob/main/pic/wuzhao.png)](https://kinwuzhao.streamlit.app/)
 [![image](https://github.com/kentang2017/taixuanshifa/blob/master/pic/taixuan.png)](https://kintaixuan.streamlit.app/)
 [![image](https://github.com/kentang2017/kinwangji/blob/main/pic/kwj.png)](https://kinwangji.streamlit.app/)
 [![image](https://raw.githubusercontent.com/kentang2017/jingjue/master/pic/jingjue.png)](https://jingjue.streamlit.app/)

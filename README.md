@@ -15,6 +15,4 @@ Below are my divination tools written in Python:
 
 if you have any questions, please feel free to contact me.(wechat id:gnatnek or Telegram id: glunyum )
 
-## **交流群**
-![c211ad9ab261f0b782697fe469009ee](https://github.com/user-attachments/assets/60ebba39-54d8-4a28-86ce-38084365494d)
--->
+

@@ -128,7 +128,7 @@
 
 ### 🐉 [taixuanshifa](https://github.com/kentang2017/taixuanshifa)
 
-**太玄筮法** — 西漢揚雄所創太玄經占卜方法
+**堅太玄** — 西漢揚雄所創太玄經占卜方法
 
 ![stars](https://img.shields.io/github/stars/kentang2017/taixuanshifa?style=flat-square&color=C9A84C)
 ![PyPI](https://img.shields.io/pypi/v/taixuanshifa?style=flat-square&color=3775A9)
@@ -138,7 +138,7 @@
 
 ### 🎋 [jingjue](https://github.com/kentang2017/jingjue)
 
-**荊訣** — 北大藏西漢竹簡，先秦古占卜法
+**堅荊訣** — 北大藏西漢竹簡，先秦古占卜法
 
 ![stars](https://img.shields.io/github/stars/kentang2017/jingjue?style=flat-square&color=C9A84C)
 ![PyPI](https://img.shields.io/pypi/v/jingjue?style=flat-square&color=3775A9)
@@ -150,7 +150,7 @@
 
 ### ⚡ [luiting](https://github.com/kentang2017/luiting)
 
-**雷霆曜氣** — 罕見的擇日方法
+**堅雷曜** — 雷霆曜氣 罕見的擇日方法
 
 ![stars](https://img.shields.io/github/stars/kentang2017/luiting?style=flat-square&color=C9A84C)
 
@@ -159,7 +159,7 @@
 
 ### 🪙 [liangtouqian](https://github.com/kentang2017/liangtouqian)
 
-**兩頭鉗** — 由兩個天干構成的命數
+**堅兩頭鉗** — 由兩個天干構成的命數
 
 ![stars](https://img.shields.io/github/stars/kentang2017/liangtouqian?style=flat-square&color=C9A84C)
 

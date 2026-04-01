@@ -1,10 +1,5 @@
 <div align="center">
 
-# 堅 · KIN
-
-**以 Python 重現中國千年術數智慧**
-*Reviving millennia of Chinese divination wisdom through Python*
-
 [![GitHub followers](https://img.shields.io/github/followers/kentang2017?style=flat-square&color=C9A84C&logo=github&label=Followers)](https://github.com/kentang2017?tab=followers)
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/kentang2017?style=flat-square&color=EA4AAA&logo=github-sponsors&label=Sponsors)](https://github.com/sponsors/kentang2017)
 
@@ -164,7 +159,7 @@
 
 ### 🪙 [liangtouqian](https://github.com/kentang2017/liangtouqian)
 
-**兩頭錢** — 古代錢卜占法
+**兩頭鉗** — 由兩個天干構成的命數
 
 ![stars](https://img.shields.io/github/stars/kentang2017/liangtouqian?style=flat-square&color=C9A84C)
 

@@ -211,45 +211,7 @@
 ![stars](https://img.shields.io/github/stars/kentang2017/bingshu?style=flat-square&color=C9A84C)
 
 </td>
-</tr>
-<tr>
-<td width="25%" align="center">
 
-🏇 [**hkjc_horserace_scraping**](https://github.com/kentang2017/hkjc_horserace_scraping)
-
-香港賽馬會賽果爬取
-
-![stars](https://img.shields.io/github/stars/kentang2017/hkjc_horserace_scraping?style=flat-square&color=C9A84C)
-
-</td>
-<td width="25%" align="center">
-
-☯️ [**iching_databases**](https://github.com/kentang2017/iching_databases)
-
-易經原始資料爬取
-
-![stars](https://img.shields.io/github/stars/kentang2017/iching_databases?style=flat-square&color=C9A84C)
-
-</td>
-<td width="25%" align="center">
-
-📜 [**getncl**](https://github.com/kentang2017/getncl)
-
-台灣國家圖書館古籍下載
-
-![stars](https://img.shields.io/github/stars/kentang2017/getncl?style=flat-square&color=C9A84C)
-
-</td>
-<td width="25%" align="center">
-
-📈 [**aastock_selenium**](https://github.com/kentang2017/aastock_selenium_bs4_web-scraping)
-
-股票技術分析爬取
-
-![stars](https://img.shields.io/github/stars/kentang2017/aastock_selenium_bs4_web-scraping?style=flat-square&color=C9A84C)
-
-</td>
-</tr>
 </table>
 
 ---

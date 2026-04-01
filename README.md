@@ -11,7 +11,7 @@
 
 ---
 
-## 🏛️ 三式 · The Three Greatest Chinese Divination Systems
+## 🏛️ 三式 · The Greatest Three Chinese Divination Systems
 
 > 太乙明天道、奇門察地理、六壬盡人事 — 古代術數最高體系
 

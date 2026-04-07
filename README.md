@@ -58,7 +58,7 @@
 
 ---
 
-## 📦 堅系列 · Kin Series divination tools
+## 📦 堅系列中外玄學工具 · Kin Series Worldwide divination tools
 
 <table>
 <tr>

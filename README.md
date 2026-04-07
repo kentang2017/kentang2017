@@ -182,6 +182,8 @@
 ![stars](https://img.shields.io/github/stars/kentang2017/kinvastu?style=flat-square&color=C9A84C)
 
 </td>
+</tr>
+<tr>
 <td align="center" width="25%">
 
 ### ⚓ [堅克提卡 · kinketika](https://github.com/kentang2017/kinvastu)

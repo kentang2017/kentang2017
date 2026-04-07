@@ -164,8 +164,6 @@
 ![stars](https://img.shields.io/github/stars/kentang2017/liangtouqian?style=flat-square&color=C9A84C)
 
 </td>
-<td align="center" colspan="2">
-</td>
 <td align="center" width="25%">
 
 ### 🪙 [liangtouqian](https://github.com/kentang2017/kinifa)

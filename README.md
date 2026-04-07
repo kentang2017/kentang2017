@@ -173,8 +173,25 @@
 ![stars](https://img.shields.io/github/stars/kentang2017/kinifa?style=flat-square&color=C9A84C)
 
 </td>
-<td align="center" colspan="2">
+<td align="center" width="25%">
+
+### 🕉️ [堅瓦斯圖 · kinvastu](https://github.com/kentang2017/kinvastu)
+
+**堅瓦斯圖** — 印度吠陀風水
+
+![stars](https://img.shields.io/github/stars/kentang2017/kinvastu?style=flat-square&color=C9A84C)
+
 </td>
+<td align="center" width="25%">
+
+### ⚓ [堅克提卡 · kinketika](https://github.com/kentang2017/kinvastu)
+
+**堅克提卡** — 印度吠陀風水
+
+![stars](https://img.shields.io/github/stars/kentang2017/kinketika?style=flat-square&color=C9A84C)
+
+</td>
+
 </tr>
 </table>
 

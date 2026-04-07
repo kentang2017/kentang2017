@@ -186,9 +186,9 @@
 <tr>
 <td align="center" width="25%">
 
-### ⚓ [堅克提卡 · kinketika](https://github.com/kentang2017/kinvastu)
+### ⚓ [堅克提卡 · kinketika](https://github.com/kentang2017/kinketika)
 
-**堅克提卡** — 印度吠陀風水
+**堅克提卡** — 馬來群島Bintang Tujuh七星擇吉法
 
 ![stars](https://img.shields.io/github/stars/kentang2017/kinketika?style=flat-square&color=C9A84C)
 

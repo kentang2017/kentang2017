@@ -64,7 +64,7 @@
 <tr>
 <td align="center" width="25%">
 
-### 📿 [ichingshifa](https://github.com/kentang2017/ichingshifa)
+### 📿 [堅筮 · ichingshifa](https://github.com/kentang2017/ichingshifa)
 
 **堅易經筮法** — 周易筮法起卦，依古法模擬蓍草、銅錢，解讀六十四卦
 
@@ -74,7 +74,7 @@
 </td>
 <td align="center" width="25%">
 
-### 📐 [kinwangji](https://github.com/kentang2017/kinwangji)
+### 📐 [堅皇極經世 · kinwangji](https://github.com/kentang2017/kinwangji)
 
 **堅皇極經世** — 北宋邵雍宇宙時間哲學，元會運世推算
 
@@ -84,7 +84,7 @@
 </td>
 <td align="center" width="25%">
 
-### 🌠 [kinastro](https://github.com/kentang2017/kinastro)
+### 🌠 [堅占星 · kinastro](https://github.com/kentang2017/kinastro)
 
 **堅占星** — 中西占星計算工具，融合傳統與現代占星體系
 
@@ -94,7 +94,7 @@
 </td>
 <td align="center" width="25%">
 
-### 🎴 [kinwuzhao](https://github.com/kentang2017/kinwuzhao)
+### 🎴 [堅五兆 · kinwuzhao](https://github.com/kentang2017/kinwuzhao)
 
 **堅五兆** — 唐宋官方法定占卜方法，五行兆象判斷吉凶
 
@@ -106,7 +106,7 @@
 <tr>
 <td align="center" width="25%">
 
-### 🪙 [kinjinkou](https://github.com/kentang2017/kinjinkou)
+### 🪙 [堅金口 · kinjinkou](https://github.com/kentang2017/kinjinkou)
 
 **堅金口** — 六壬金口訣起課系統
 
@@ -116,7 +116,7 @@
 </td>
 <td align="center" width="25%">
 
-### 🔮 [shenyishu](https://github.com/kentang2017/shenyishu)
+### 🔮 [堅神易數 · shenyishu](https://github.com/kentang2017/shenyishu)
 
 **堅神易數** — 神易數占卜系統
 
@@ -126,7 +126,7 @@
 </td>
 <td align="center" width="25%">
 
-### 🐉 [taixuanshifa](https://github.com/kentang2017/taixuanshifa)
+### 🐉 [堅太玄 · taixuanshifa](https://github.com/kentang2017/taixuanshifa)
 
 **堅太玄** — 西漢揚雄所創太玄經占卜方法
 
@@ -136,7 +136,7 @@
 </td>
 <td align="center" width="25%">
 
-### 🎋 [jingjue](https://github.com/kentang2017/jingjue)
+### 🎋 [堅荊訣 · jingjue](https://github.com/kentang2017/jingjue)
 
 **堅荊訣** — 北大藏西漢竹簡，先秦古占卜法
 
@@ -148,7 +148,7 @@
 <tr>
 <td align="center" width="25%">
 
-### ⚡ [luiting](https://github.com/kentang2017/luiting)
+### ⚡ [堅雷霆 · luiting](https://github.com/kentang2017/luiting)
 
 **堅雷曜** — 雷霆曜氣 罕見的擇日方法
 
@@ -157,16 +157,16 @@
 </td>
 <td align="center" width="25%">
 
-### 🪙 [liangtouqian](https://github.com/kentang2017/liangtouqian)
+### 🪙 [堅兩頭鉗 · liangtouqian](https://github.com/kentang2017/liangtouqian)
 
-**堅兩頭鉗** — 由兩個天干構成的命數
+**堅兩頭鉗** — 又名分定經、由兩個天干構成的命數
 
 ![stars](https://img.shields.io/github/stars/kentang2017/liangtouqian?style=flat-square&color=C9A84C)
 
 </td>
 <td align="center" width="25%">
 
-### 🪙 [liangtouqian](https://github.com/kentang2017/kinifa)
+### 🪙 [堅伊法 · kinifa](https://github.com/kentang2017/kinifa)
 
 **堅伊法** — 非洲的易經、西非約魯巴人民的占卜系統
 

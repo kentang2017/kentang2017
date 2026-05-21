@@ -248,11 +248,8 @@
 
 <div align="center">
 
-傳統玄學術數歷經數千年傳承，卻因語言、文化與技術等壁壘，始終難以普及。
-我正在做的，是把這些珍貴的文化遺產，一行一行地轉化為任何人都能運行、驗證和研究的 Python 程式碼。
-
-Ancient divination arts have been passed down for millennia, yet remain inaccessible to most.
-I'm translating this precious heritage, line by line, into Python code that anyone can run, verify, and study.
+傳承先賢玄學命理文化、利益十方眾生、福報綿長！
+Preserve and pass on the ancient sages’ wisdom of fate calculation and metaphysics, benefit all sentient beings in the ten directions, and may your blessings be boundless and everlasting!
 
 **您的贊助 = 文化保育 + 技術創新 · Your sponsorship = Cultural preservation + Technical innovation**
 

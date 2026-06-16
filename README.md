@@ -1,11 +1,67 @@
 <div align="center">
 
+# About Ken Tang
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C9A84C&center=true&vCenter=true&width=700&lines=%E5%A4%AA%E4%B9%99%E6%98%8E%E5%A4%A9%E9%81%93+%C2%B7+%E5%A5%87%E9%96%80%E5%AF%9F%E5%9C%B0%E7%90%86+%C2%B7+%E5%85%AD%E5%A3%AC%E7%9B%A1%E4%BA%BA%E4%BA%8B;Millennia+of+Divination+%E2%86%92+One+Line+of+Python;Open-Source+%E5%A0%85%E7%B3%BB%E5%88%97+%C2%B7+20%2B+PyPI+Packages)](https://git.io/typing-svg)
+
+**將古代術數最高體系，開源化、程式化、傳承化**
+*Open-sourcing the greatest systems of Chinese divination — for researchers, practitioners, and builders worldwide.*
+
+<br>
+
+[![Follow @kentang2017](https://img.shields.io/badge/⭐%20Follow%20@kentang2017-1a1a2e?style=for-the-badge&logo=github&logoColor=C9A84C)](https://github.com/kentang2017?tab=followers)
+[![Sponsor](https://img.shields.io/badge/💛%20Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/kentang2017)
+
+<br>
+
 [![GitHub followers](https://img.shields.io/github/followers/kentang2017?style=flat-square&color=C9A84C&logo=github&label=Followers)](https://github.com/kentang2017?tab=followers)
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/kentang2017?style=flat-square&color=EA4AAA&logo=github-sponsors&label=Sponsors)](https://github.com/sponsors/kentang2017)
+[![GitHub stars](https://img.shields.io/badge/⭐%20Stars-649%2B-C9A84C?style=flat-square&logo=github)](https://github.com/kentang2017?tab=stars)
+[![Public Repos](https://img.shields.io/badge/📦%20Repos-28-C9A84C?style=flat-square&logo=github)](https://github.com/kentang2017?tab=repositories)
+[![Location](https://img.shields.io/badge/📍%20Hong%20Kong-C9A84C?style=flat-square)](https://github.com/kentang2017)
+[![Hireable](https://img.shields.io/badge/💼%20Hireable-Yes-2ea043?style=flat-square)](https://github.com/kentang2017)
+
+<br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![](https://komarev.com/ghpvc/?username=kentang2017&color=C9A84C&style=flat-square&label=Profile+Views)
+
+</div>
+
+---
+
+## ✨ 為什麼 Follow？ · Why Follow?
+
+<table>
+<tr>
+<td width="50%">
+
+### 🇨🇳 中文
+
+- **獨家堅系列** — 全球少見、系統完整的術數 Python 開源庫
+- **三式齊全** — 太乙、奇門、六壬，一鍵 `pip install`
+- **持續更新** — 新古籍考據、新排盤邏輯、新 PyPI 版本
+- **學術 × 實戰** — 適合研究者、命理師、量化與 LLM 愛好者
+
+</td>
+<td width="50%">
+
+### 🇬🇧 English
+
+- **The Kin Series** — rare, production-ready open-source divination libraries
+- **The Greatest Three** — Taiyi, Qimen, Liuren — all on PyPI
+- **Actively maintained** — new texts, algorithms, and releases
+- **Research meets practice** — for scholars, practitioners, and builders
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kentang2017&show_icons=true&theme=gruvbox&hide_border=true&bg_color=1a1a2e&title_color=C9A84C&icon_color=C9A84C&text_color=cccccc&include_all_commits=true)](https://github.com/kentang2017)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kentang2017&theme=gruvbox&hide_border=true&background=1a1a2e&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C&sideLabels=cccccc&dates=888888)](https://github.com/kentang2017)
 
 </div>
 
@@ -26,19 +82,16 @@
 ![stars](https://img.shields.io/github/stars/kentang2017/kintaiyi?style=flat-square&color=C9A84C)
 ![PyPI](https://img.shields.io/pypi/v/kintaiyi?style=flat-square&color=3775A9)
 
-`pip install kintaiyi`
-
 </td>
 <td align="center" width="33%">
 
-### ☯️ [堅奇門 · kinqimen](https://github.com/kentang2017/kinqimen)
+### ☯️ [堅奇門 · kinqimen](https://github.com/kentang2017/kinqimen) 🔥
 
 **奇門遁甲** — 集天文、兵法、術數於一體，含時家·日家·刻家排盤
 
 ![stars](https://img.shields.io/github/stars/kentang2017/kinqimen?style=flat-square&color=C9A84C)
 ![PyPI](https://img.shields.io/pypi/v/kinqimen?style=flat-square&color=3775A9)
-
-`pip install kinqimen`
+![popular](https://img.shields.io/badge/🔥%20Top%20Repo-119%20stars-C9A84C?style=flat-square)
 
 </td>
 <td align="center" width="33%">
@@ -50,26 +103,25 @@
 ![stars](https://img.shields.io/github/stars/kentang2017/kinliuren?style=flat-square&color=C9A84C)
 ![PyPI](https://img.shields.io/pypi/v/kinliuren?style=flat-square&color=3775A9)
 
-`pip install kinliuren`
-
 </td>
 </tr>
 </table>
 
 ---
 
-## 📦 堅系列中外玄學工具 · Kin Series Worldwide divination tools
+## 📦 堅系列中外玄學工具 · Kin Series Worldwide Divination Tools
 
 <table>
 <tr>
 <td align="center" width="25%">
 
-### 📿 [堅筮 · ichingshifa](https://github.com/kentang2017/ichingshifa)
+### 📿 [堅筮 · ichingshifa](https://github.com/kentang2017/ichingshifa) ⭐
 
 **堅易經筮法** — 周易筮法起卦，依古法模擬蓍草、銅錢，解讀六十四卦
 
 ![stars](https://img.shields.io/github/stars/kentang2017/ichingshifa?style=flat-square&color=C9A84C)
 ![PyPI](https://img.shields.io/pypi/v/ichingshifa?style=flat-square&color=3775A9)
+![popular](https://img.shields.io/badge/⭐%20Most%20Starred-254-C9A84C?style=flat-square)
 
 </td>
 <td align="center" width="25%">
@@ -101,6 +153,8 @@
 ![stars](https://img.shields.io/github/stars/kentang2017/kinwuzhao?style=flat-square&color=C9A84C)
 ![PyPI](https://img.shields.io/pypi/v/kinwuzhao?style=flat-square&color=3775A9)
 
+
+
 </td>
 </tr>
 <tr>
@@ -113,6 +167,8 @@
 ![stars](https://img.shields.io/github/stars/kentang2017/kinjinkou?style=flat-square&color=C9A84C)
 ![PyPI](https://img.shields.io/pypi/v/kinjinkou?style=flat-square&color=3775A9)
 
+
+
 </td>
 <td align="center" width="25%">
 
@@ -123,6 +179,8 @@
 ![stars](https://img.shields.io/github/stars/kentang2017/shenyishu?style=flat-square&color=C9A84C)
 ![PyPI](https://img.shields.io/pypi/v/shenyishu?style=flat-square&color=3775A9)
 
+
+
 </td>
 <td align="center" width="25%">
 
@@ -132,6 +190,8 @@
 
 ![stars](https://img.shields.io/github/stars/kentang2017/taixuanshifa?style=flat-square&color=C9A84C)
 ![PyPI](https://img.shields.io/pypi/v/taixuanshifa?style=flat-square&color=3775A9)
+
+
 
 </td>
 <td align="center" width="25%">
@@ -150,7 +210,7 @@
 
 ### ⚡ [堅雷霆 · luiting](https://github.com/kentang2017/luiting)
 
-**堅雷曜** — 雷霆曜氣 罕見的擇日方法
+**堅雷曜** — 雷霆曜氣，罕見的擇日方法
 
 ![stars](https://img.shields.io/github/stars/kentang2017/luiting?style=flat-square&color=C9A84C)
 
@@ -188,12 +248,23 @@
 
 ### ⚓ [堅克提卡 · kinketika](https://github.com/kentang2017/kinketika)
 
-**堅克提卡** — 馬來群島Bintang Tujuh七星擇吉法
+**堅克提卡** — 馬來群島 Bintang Tujuh 七星擇吉法
 
 ![stars](https://img.shields.io/github/stars/kentang2017/kinketika?style=flat-square&color=C9A84C)
 
 </td>
+<td colspan="3" align="center">
 
+<br>
+
+**一鍵探索全部倉庫 →** [![All Repos](https://img.shields.io/badge/📂%20View%20All%2028%20Repos-C9A84C?style=for-the-badge&logo=github)](https://github.com/kentang2017?tab=repositories)
+
+<br>
+
+**覺得好用？點個 ⭐ Star，幫助更多人發現堅系列！**
+*Found this useful? Star a repo — it helps others discover these libraries.*
+
+</td>
 </tr>
 </table>
 
@@ -239,7 +310,7 @@
 ![stars](https://img.shields.io/github/stars/kentang2017/bingshu?style=flat-square&color=C9A84C)
 
 </td>
-
+</tr>
 </table>
 
 ---
@@ -248,12 +319,16 @@
 
 <div align="center">
 
-傳承先賢玄學命理文化、利益十方眾生、福報綿長！
-Preserve and pass on the ancient sages’ wisdom of fate calculation and metaphysics, benefit all sentient beings in the ten directions, and may your blessings be boundless and everlasting!
+傳承先賢玄學命理文化，前人栽樹，後人乘涼！
+*Preserve and pass on the ancient sages' wisdom of fate calculation and metaphysics — benefit all sentient beings, and may your blessings be boundless.*
 
-**您的贊助 = 文化保育 + 技術創新 · Your sponsorship = Cultural preservation + Technical innovation**
+**您的贊助 = 文化保育 + 技術創新**
+*Your sponsorship = Cultural preservation + Technical innovation*
+
+<br>
 
 [![Sponsor kentang2017](https://img.shields.io/badge/💛%20Sponsor%20My%20Work-GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/kentang2017)
+[![Follow for Updates](https://img.shields.io/badge/⭐%20Follow%20for%20Updates-1a1a2e?style=for-the-badge&logo=github&logoColor=C9A84C)](https://github.com/kentang2017?tab=followers)
 
 </div>
 
@@ -264,10 +339,22 @@ Preserve and pass on the ancient sages’ wisdom of fate calculation and metaphy
 <div align="center">
 
 如果你對 **玄學術數、球賽預測、大型言語模型** 感興趣而又想交流，歡迎關注微信公眾號「探究三式」或加本人微信聯繫：
-If you're interested in **Chinese divination arts, Python, or predictive modeling**, welcome to join!
+*Interested in **Chinese divination, predictive modeling, or LLMs**? Let's connect.*
+
+<br>
 
 📱 WeChat: **gnatnek** *(請註明來意 · please specify your purpose)*
+
+<br>
+
+[![Follow @kentang2017](https://img.shields.io/badge/⭐%20Follow%20@kentang2017%20on%20GitHub-C9A84C?style=for-the-badge&logo=github)](https://github.com/kentang2017?tab=followers)
 
 </div>
 
 ---
+
+<div align="center">
+
+*「術數之道，貴在傳承；開源之力，惠及萬方。」*
+
+</div>

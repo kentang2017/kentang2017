@@ -50,7 +50,7 @@
 ### 🇬🇧 English
 
 - **The Kin Series** — rare, production-ready open-source divination libraries
-- **The Greatest Three** — Taiyi, Qimen, Liuren — all on PyPI
+- **The Greatest Sanshi (The Great Three Chinese Divinations)** — Taiyishenshu, Qimenduujia, Daliuren — all on PyPI
 - **Actively maintained** — new texts, algorithms, and releases
 - **Research meets practice** — for scholars, practitioners, and builders
 
